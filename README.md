@@ -1,2 +1,3 @@
 # GoLearn
-Collection of pretty basic go programs, just for learning go!
+A repo which contains basic go programs! 
+Finally, inserted an exit condition from procrastination doom loop to learn GoLang ;) 
